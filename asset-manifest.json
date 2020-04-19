@@ -1,0 +1,23 @@
+{
+  "main.css": "/PlatziBadges/static/css/main.b327a6c4.chunk.css",
+  "main.js": "/PlatziBadges/static/js/main.8056ea32.chunk.js",
+  "main.js.map": "/PlatziBadges/static/js/main.8056ea32.chunk.js.map",
+  "runtime~main.js": "/PlatziBadges/static/js/runtime~main.a53ed276.js",
+  "runtime~main.js.map": "/PlatziBadges/static/js/runtime~main.a53ed276.js.map",
+  "static/css/2.ae820ead.chunk.css": "/PlatziBadges/static/css/2.ae820ead.chunk.css",
+  "static/js/2.e6799b2b.chunk.js": "/PlatziBadges/static/js/2.e6799b2b.chunk.js",
+  "static/js/2.e6799b2b.chunk.js.map": "/PlatziBadges/static/js/2.e6799b2b.chunk.js.map",
+  "index.html": "/PlatziBadges/index.html",
+  "precache-manifest.9d00e28c3dda1915c523f99615cce6df.js": "/PlatziBadges/precache-manifest.9d00e28c3dda1915c523f99615cce6df.js",
+  "service-worker.js": "/PlatziBadges/service-worker.js",
+  "static/css/2.ae820ead.chunk.css.map": "/PlatziBadges/static/css/2.ae820ead.chunk.css.map",
+  "static/css/main.b327a6c4.chunk.css.map": "/PlatziBadges/static/css/main.b327a6c4.chunk.css.map",
+  "static/media/badge-header.svg": "/PlatziBadges/static/media/badge-header.dc24081b.svg",
+  "static/media/conf-logo.svg": "/PlatziBadges/static/media/conf-logo.76c503a5.svg",
+  "static/media/conf.svg": "/PlatziBadges/static/media/conf.73ec3ffb.svg",
+  "static/media/all.min.css": "/PlatziBadges/static/media/fa-solid-900.ec763292.svg",
+  "static/media/logo.svg": "/PlatziBadges/static/media/logo.044973fd.svg",
+  "static/media/platzi-logo.svg": "/PlatziBadges/static/media/platzi-logo.abf4ab10.svg",
+  "static/media/platziConf-logo.svg": "/PlatziBadges/static/media/platziConf-logo.949f0b66.svg",
+  "static/media/NotFound.css": "/PlatziBadges/static/media/stars.c24e6dd1.svg"
+}
