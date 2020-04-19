@@ -1,0 +1,40 @@
+.Home {
+  background: url("../../images/stars.svg") #1b1b25 repeat;
+  min-height: calc(100vh - 60px);
+  color: #ffffff;
+}
+
+.Home .row {
+  padding: 30px;
+}
+
+@media (min-width: 992px) {
+  .Home .row {
+    padding-top: 100px;
+  }
+}
+
+@media (min-width: 992px) {
+  .Home__info {
+    position: relative;
+    top: 50px;
+  }
+}
+
+.Home__info h1 {
+  font-size: 40px;
+}
+
+.Home__info p {
+  font-size: 20px;
+}
+
+.Home__info-button {
+  font-weight: bold;
+  width: 180px;
+}
+@media (min-width: 992px) {
+  .Home__info-button {
+    margin-left: 80px;
+  }
+}

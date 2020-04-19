@@ -1,0 +1,46 @@
+.BadgeList__badge {
+  background-color: #ffffff;
+  padding: 12px;
+  margin: 20px 0;
+  border: 1px solid #d4d4d4;
+}
+
+.BadgeList__badge p {
+  margin: 0;
+}
+
+.BadgeList__avatar {
+  border-radius: 50%;
+  height: 80px;
+  width: auto;
+  margin-right: 18px;
+  float: left;
+}
+
+.BadgesList__dates {
+  display: inline-block;
+}
+
+.BadgeList__dates-title {
+  font-weight: bold;
+}
+
+.BadgesList__dates-twitter {
+  font-size: 14px;
+  text-decoration: none;
+  color: #1da1f2;
+}
+/* .BadgesList__dates-twitter:hover {
+  text-decoration: none;
+  color: #267baf;
+} */
+.BadgesList__dates-twitter::before {
+  font-family: "Font Awesome 5 Brands";
+  font-weight: 400;
+  content: "\f099";
+  font-size: 18px;
+  margin-right: 5px;
+}
+/* .BadgesList__dates-twitter:hover::before {
+  color: #1da1f2;
+} */
